@@ -12,17 +12,17 @@ export default function Page() {
 
   const getNoButtonText = () => {
     const phrases = [
-      "Hindi",
+      "Wala gid",
       "sure kah nah gd?",
       "What if I asked really nicely?",
       "Pretty please",
       "With a chocolate rice cake on top",
       "What about a matcha frostie",
       "PLEASE POOKIE",
-      "But :*(",
-      "I am going to die",
-      "Yep im dead",
-      "ok ur talking to nathan's ghost",
+      "Pero :*(",
+      "Mapatay na gid ko",
+      "Oo patay na ako",
+      "okay ka lang, nagapangamuyo ka sa bangkay ni Juan",
       "please babe",
       ":((((",
       "PRETTY PLEASE",
